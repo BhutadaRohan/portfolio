@@ -1,0 +1,143 @@
+{
+    "about":{
+        "experience":"1+ years",
+        "projects":"5+",
+        "text":"I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript & ReactJS building everything from landing pages to APIs. My experience as a intern and associate helped me collaborate with fellow developers. It has helped me become efficient, productive, and fast even in a very stressful environment, which is an important skill in the tech industry."
+    },
+    "skills":{
+        "list":[
+            {
+                "name":"HTML",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            },
+            {
+                "name":"CSS",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            },
+            {
+                "name":"JavaScript",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            },
+            {
+                "name":"Bootstrap",
+                "link":"https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain.svg"
+            },
+            {
+                "name":"React",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            },
+            {
+                "name":"Redux",
+                "link":"https://cdn.jsdelivr.net/gh/SaulMoro/ngrx-rtk-query@e5848a2f53368a4ebd177c5369c9b1477c16cc68/logo.svg"
+            },
+            {
+                "name":"Typescript",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            },
+            {
+                "name":"NodeJs",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            },
+            {
+                "name":"Git",
+                "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+            },
+            {
+                "name":"Python",
+                "link":"https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/python/python-original.svg"
+            }
+        ]
+    },
+    "experience":{
+        "list":[
+            {
+                "role":"React Developer",
+                "company":"Accenture Solutions Pvt. Ltd.",
+                "desc":[
+                    "Developed new components & modernized 2 apps for client using ReactJs.",
+                    "During project worked on building new components, Redux for state management, Semantic-ui-react for responsive UI design, redux-saga for middleware and other dependencies",
+                    "Worked on Redux reducers & actions patterns.",
+                    "Familiar with Jenkins tool for CI/CD pipeline deployment and Docker for containerizing application which then deployed on Kubernetes"
+                ],
+                "period":"October 2021 - present"
+            },
+            {
+                "role":"Web Development Intern",
+                "company":"FindMind Analytics Pvt. Ltd.",
+                "desc":[
+                    "Built new components and resolved existing bugs in website and added charts using recharts lib. to make data interpretation easy",
+                    "Worked on dark mode for website using MaterialUI lib."
+                ],
+                "period":"March 2021 - June 2021"
+            }
+        ]
+    },
+    "projects":{
+        "list":[
+            {
+                "title":"FinEasy - Finance Calculator",
+                "thumbnail":"https://img.freepik.com/free-vector/flat-worried-woman-have-list-credit-debts-overdue-bills-girl-reading-letter-from-collection-agency-about-financial-problems-loans-unpaid-tax-calculation-payment-expenses-concept_88138-805.jpg?w=2000" ,
+                "desc":"A financial calculator exclusively for Indians with the schemes available in Indian Banks, Post Office, Mutual Funds, Retirement, Income Tax, Insurance, Bonds and much more.",
+                "skills":["React Native","Material UI"],
+                "livelink":"https://play.google.com/store/apps/details?id=com.fineasy.finance.calculator",
+                "repo":"private"
+            },
+            {
+                "title":"Medibot - Healthcare Chatbot",
+                "thumbnail":"https://skil.ai/wp-content/uploads/2021/09/AI-Chatbots-For-Healthcare.-scaled.jpg" ,
+                "desc":"Mobile application includes chatbot which is used to get information related to diseases such as symptoms, preventive measures, transmission information, etc. and added feature to upload user's medical report in PDF form so that user can access them whenever required",
+                "skills":["React Native","NodeJS","ExpressJS","React-Native-Paper","DialogFlow","MongoDB"],
+                "livelink":"https://docs.google.com/document/d/1F--F4jzjqSLt0U8W-aq6EAogRa1XE0BYWhzZCin1I5I/edit?usp=sharing",
+                "repo":"private"
+            },
+            {
+                "title":"SIH-Connect",
+                "thumbnail":"https://www.technologyforyou.org/wp-content/uploads/2020/08/sih3.jpg" ,
+                "desc":"It is application which will use user's device signal strength, so that users and administration can monitor and analyze data with help of maps, charts, graphs based on machine learning algorithms. This is winning project with 1st rank in Smart India Hackathon 2020.",
+                "skills":["React Native","Material UI","NodeJS","ExpressJS","MongoDB"],
+                "livelink":"https://docs.google.com/document/d/1RCXSKVxJgwgb8pLMuCeAghmqcYAKlkLpOtz-FpyumbQ/edit?usp=sharing",
+                "repo":"private"
+            },
+            {
+                "title":"E-Commerce Website",
+                "thumbnail":"https://www.cloudways.com/blog/wp-content/uploads/Top-Ecommerce-Websites.jpg" ,
+                "desc":"Created a ecommerce site where users can signup and buy products and Sellers can do CRUD operations on products.",
+                "skills":["ReactJS","Bootstrap","NodeJS","ExpressJS","MongoDB"],
+                "livelink":"https://play.google.com/store/apps/details?id=com.fineasy.finance.calculator",
+                "repo":"private"
+            },
+            {
+                "title":"Corona Tracker",
+                "thumbnail":"https://camo.githubusercontent.com/758789925c77a28be1006b2684038407dafa31eb22fb8dfbc615f355d760cf20/68747470733a2f2f692e6962622e636f2f583837427156592f53637265656e73686f742d323032302d30342d31332d61742d31302d31342d35382e706e67" ,
+                "desc":"Built and deployed a corona tracker web application which display data from api in form of charts",
+                "skills":["ReactJS"],
+                "livelink":"https://bhutadarohan.github.io/corona-tracker/",
+                "repo":"private"
+            }
+        ]
+    },
+    "contact":{
+        "list":[
+            {
+                "name":"github",
+                "link":"https://github.com/BhutadaRohan",
+                "image":"https://i.ibb.co/Vwvrh3w/github.png"
+            },
+            {
+                "name":"linkden",
+                "link":"https://in.linkedin.com/in/bhutadarohan",
+                "image":"https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/linkedin/linkedin-original.svg"
+            },
+            {
+                "name":"instagram",
+                "link":"https://www.instagram.com/rohanbhutada62/",
+                "image":"https://johnhoward.on.ca/peterborough/wp-content/uploads/sites/12/2021/03/instagram-logo-svg-vector-for-print.svg"
+            },
+            {
+                "name":"whatsapp",
+                "link":"https://wa.me/+919767367335/",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"
+            }
+        ]
+    }
+}

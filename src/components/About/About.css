@@ -1,0 +1,15 @@
+.profile-2{
+    border-radius: 30% 70% 24% 76% / 73% 27% 73% 27% ;
+    background: #05080c;  
+    background: -webkit-linear-gradient(to left, #000000, #141E30);  
+    background: linear-gradient(to left, #f0932b, #f0932b); 
+
+}
+
+.profile{
+    border-radius: 30% 70% 24% 76% / 73% 27% 73% 27% ;
+    background: #000000;  
+    background: -webkit-linear-gradient(to left, #000000, #f0932b);  
+    background: linear-gradient(to left, #010203, #141E30);
+    
+    } 

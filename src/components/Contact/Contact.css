@@ -1,0 +1,23 @@
+.contact-card{
+    background-color:#131416;
+    padding:5vh 3vh;
+    border-radius: 5%;
+}
+
+#Contact .card{
+    background-color:#131416;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.form-floating > .form-control{
+    background-color: #131416;
+    border-color: #b2bec3;
+    color: whitesmoke;
+}
+
+.form-control:focus{   
+  border-color: #f0932b;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 6px #f0932b;
+  outline: 0 none;
+}
