@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9818f3f6.css",
-    "main.js": "/static/js/main.f8a426bc.js",
-    "static/media/PHOTO.png": "/static/media/PHOTO.7883bfee41ef7876d6ee.png",
-    "static/media/Rohan bhutada.pdf": "/static/media/Rohan bhutada.60fd647d9a9c7fc9c3dc.pdf",
-    "static/media/undraw_Coding_re_iv62.png": "/static/media/undraw_Coding_re_iv62.de8fae41f45302042f2a.png",
-    "index.html": "/index.html",
-    "main.9818f3f6.css.map": "/static/css/main.9818f3f6.css.map",
-    "main.f8a426bc.js.map": "/static/js/main.f8a426bc.js.map"
+    "main.css": "/portfolio/static/css/main.9818f3f6.css",
+    "main.js": "/portfolio/static/js/main.c9e99d2b.js",
+    "static/media/PHOTO.png": "/portfolio/static/media/PHOTO.7883bfee41ef7876d6ee.png",
+    "static/media/Rohan bhutada.pdf": "/portfolio/static/media/Rohan bhutada.60fd647d9a9c7fc9c3dc.pdf",
+    "static/media/undraw_Coding_re_iv62.png": "/portfolio/static/media/undraw_Coding_re_iv62.de8fae41f45302042f2a.png",
+    "index.html": "/portfolio/index.html",
+    "main.9818f3f6.css.map": "/portfolio/static/css/main.9818f3f6.css.map",
+    "main.c9e99d2b.js.map": "/portfolio/static/js/main.c9e99d2b.js.map"
   },
   "entrypoints": [
     "static/css/main.9818f3f6.css",
-    "static/js/main.f8a426bc.js"
+    "static/js/main.c9e99d2b.js"
   ]
 }
