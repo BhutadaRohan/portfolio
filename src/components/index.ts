@@ -5,6 +5,7 @@ import Home from "./Home/Home";
 import Navbar from "./Navbar/Navbar";
 import Projects from "./Projects/Projects";
 import Skills from "./Skills/Skills";
+import Alerts from "./Alerts"
 
 export {
     About,
@@ -13,5 +14,6 @@ export {
     Home,
     Navbar,
     Projects,
-    Skills
+    Skills,
+    Alerts
 }

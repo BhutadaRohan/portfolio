@@ -32,7 +32,7 @@ const Navbar = (props: any) => {
     navLi.forEach((li) => {
       const aLink = li.querySelectorAll("a");
       aLink[0].classList.remove("active");
-      console.log(aLink[0].innerText)
+      // console.log(aLink[0].innerText)
       if (current && aLink[0].innerText.includes(current)) {
         aLink[0].classList.add("active");
       }
