@@ -18,13 +18,14 @@ const Navbar = (props: any) => {
     return () => window.removeEventListener('scroll', navbarControl)
   },[])
 
-  const sections = document.querySelectorAll("section");
+  const sections = Array.from(document.querySelectorAll("section"));
   const navLi = document.querySelectorAll("nav .container-fluid ul li");
   window.onscroll = () => {
     var current:string|null = "" ;
     sections.forEach((section) => {
       const sectionTop = section.offsetTop;
-      if (window.pageYOffset+70 >= sectionTop  ) {
+      console.log(sectionTop,window.innerHeight,window.pageYOffset)
+      if (window.pageYOffset >= sectionTop - 150  ) {
         current = section.getAttribute("id"); 
       }
     });
